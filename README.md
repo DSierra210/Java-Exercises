@@ -1,2 +1,2 @@
 # Java-Exercises
-Using python to solve straightforward questions as practice
+Using Java to solve straightforward questions as practice
